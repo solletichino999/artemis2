@@ -34,3 +34,7 @@ Second night (09/04/2026):
 
 The signal was received on a rooftop in the center of Bari, Italy, with a clear view of the sky. The system was left to run for half an hour before reception. The radio pollution was heavy and two previous reception attempts using a modified MMDS downconverter with SAW filters failed.
 The photos were shot using a Realme GT 8 Pro.
+
+Also featured on:
+- <a href="https://www.rtl-sdr.com/receiving-the-artemis-2-s-band-carrier-with-a-wi-fi-dish-and-airspy-r2/">RTL-SDR.COM Blog</a>
+- <a href="https://community.libre.space/t/artemis-ii-mission/14334/63">Libre Space Community</a>
