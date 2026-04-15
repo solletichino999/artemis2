@@ -1,5 +1,5 @@
 Equipment used:
-- 80 cm 2.4 GHz Wi-Fi grid dish (23.3 dB at 2.2 GHz) with stock linear dipole feed (-3 dB with Orion RHCP)
+- WiMo 80 cm 2.4 GHz Wi-Fi grid dish (23.3 dB at 2.2 GHz) with stock linear dipole feed (-3 dB with Orion RHCP)
 - Mini-Circuits ZX60-242GLN-S+ LNA powered via USB
 - Sysmocom S-Band cavity filter (2170-2300 MHz)
 - Nooelec Ham It Down downconverter powered by USB (1500 MHz LO)
